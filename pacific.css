@@ -1,0 +1,73 @@
+
+
+
+body {color: #666666; background-color: #90C7E3; font-family: veranda; margin: 0;}
+
+header {background-color: #002171; color: #FFFFFF; font-family: Georgia;}
+
+header {style{line-height: 120px; #figure {border: 3px solid #000000; font-family: papyrus, fantasy; padding: 6px; text-align: center; width: 500px; padding-top:.5em;}}}
+
+h1 {line-height: 200%; font-size: 3em; letter-spacing: 0.1em; color:#002171}
+
+nav {line-height: 120px; font-weight: bold; padding-top:0em; padding-right: 0em; padding-bottom: 0em; font-size: 1.2em; word-spacing: 1em;}
+
+h2 {color: #1976D2; font-family: Georgia;}
+
+dt {color: #002171; font-weight:bold;}
+
+footer {font-size: .70em; text-align: center; font-size: small; padding: 1em; background-color: white;}
+
+.resort {color: #1976D2; font-size: 1.2em;}
+
+#wrapper {margin-right: auto; margin-left: auto; background-color: linear-gradient(to right, white, blue); min-width: 960px; max-width:2048px;}
+
+#grad{
+background-image: linear-gradient(to right, white, blue);}
+
+meta charset{color:#90C7E3;}
+
+header {background-image:"sunset.jpg"; align-content:"right"; padding: 1em;}
+
+h3 {font: Georgia;}
+
+main {padding-left: 2em; padding-right:2em; display:block;}
+
+homehero-element{height: 300px; background-image:"coast.jpg"; background-size: 200% 100%;}
+
+yurthero-element{height:300px; background-image:"yurt.jpg"; background-size: 200% 100%;}
+
+trailhero-element{height:300px; background-image:"trail.jpg"; background-size: 200% 100%;}
+
+nav a {text-decoration:none;}
+
+* {box-sizing: border-box;}
+
+nav a:link {color:#5C7FA3; text-decoration-color:white;}
+
+nav a:visited {color:#344873; text-decoration-color:white;}
+
+nav a:hover {color: #A52A2A; text-decoration-color:#90C7E3;}
+
+nav ul{list-style-type:none; padding-left: 1em;}
+
+nav{position:fixed; padding-bottom: 3em;}
+
+main{padding-top: 0; padding-bottom: 0; padding-left: 1em; padding-right: 1em;}
+
+section{padding-left: 2em; padding-right:2em; padding-left:.5em; padding-right: .5em;}
+
+nav li{padding-top: 0.5em; padding-bottom: 0.5em; padding-left:1em; padding-right: 1em; width: 100%; border-bottom: 1px;}
+
+mobile-id{display: inline;}
+
+desktop-id{display:none;}
+
+.center{display: block; margin-left:auto; margin-right: auto; width: 50%;}
+
+table{align-content: center; border: #3399CC 1px; border-collapse: collapse;}
+
+td{text-align: center;}
+
+.text{text-align: left;}
+
+:nth-of-type(even){background-color: #DFEDF8}
